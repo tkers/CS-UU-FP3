@@ -1,0 +1,16 @@
+A borders B to the South.
+A borders F to the South.
+B borders C to the South.
+B borders D to the South.
+C borders D to the South.
+C borders I to the South.
+D borders I to the South.
+D borders E to the South.
+E borders F to the South.
+E borders G to the South.
+E borders H to the South.
+E borders I to the South.
+F borders G to the South.
+H borders I to the South.
+H borders J to the South.
+I borders J to the South.
